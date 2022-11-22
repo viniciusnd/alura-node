@@ -1,4 +1,4 @@
-<h1 align="center"> Letter Sorter </h1>
+<h1 align="center"> Node.js: API Rest com Express e MongoDB </h1>
 
 <div align="center">
 <h2>DESCRIPTION</h2>
